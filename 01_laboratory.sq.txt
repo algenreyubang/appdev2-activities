@@ -1,0 +1,35 @@
+//Creating a Database:
+CREATE DATABASE Company;
+
+//Selecting a Database:
+USE Company;
+
+//create Table company
+CREATE TABLE Company(
+   EmployeeID INT, PRIMARY KEY,
+    FirstName VARCHAR(20),
+    LastName VARCHAR(20),
+    Age (INT),
+    Department VARCHAR(250)
+);
+
+//Inserting Data into the Table:
+INSERT INTO Employees (EmployeeID, FirstName, LastName, Age, Department) 
+VALUES 
+(1, 'Garen', 'Demacia', 29, 'Swordsman'),
+(2, 'Lux', 'Demacia', 28, 'Mage'),
+(3, 'Galio', 'Golem', 900, 'Antimageweapon'),
+(4, 'Fiora', 'Roseheart', 28, 'Duelist'),
+(5, 'Kayle', 'Demacia', 1000, 'The Justice');
+
+//Viewing Data:
+SELECT * FROM `employees`;
+
+//Updating Data:
+INSERT INTO employees (EmplyeeID,FirstName, LastName, Age, Department) VALUES ("2","Lux", "Demacia", "28", "Marketing");
+
+//deleteng row 3 
+DELETE FROM employees WHERE EmployeeID = 3;
+
+//drop table
+DROP TABLE employees;
