@@ -1,0 +1,18 @@
+Case Study #2
+
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our users and clients. The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, it becomes apparent that several tasks are still in progress, and there are unresolved bugs that need attention. The testing process, crucial for ensuring product quality, has not yet begun. As a software engineer involved in the project, what aspects could have been handled better to prevent the delays and issues experienced, such as incomplete tasks, unresolved bugs, and a delayed testing process?
+
+For this activity, evaluate the situation and offer your suggestions on areas where improvements could have been made.
+
+
+
+as a scrum master in our team in the subject ISPM, i suggest for the development team to be productive and double time for completing the task or backlogs and when they encoutering blockers or hindrances tell to the scrum master so he/she can mediate/help to solve the problem because the scrm master job is to make the work environment likeable to the developer for smooth progress of developing 
+
+as for dev team i would like to suggets to incease thier skills for sftware development, double time in the deveopment, and tell to the scrum master what are the blockers or hindrancess they encourtering, so he can remove the hindrance facing the developer, if needed to have OT do the OT to finish a task or backlog  
+
+as for product owner i would like to suggest to make clear sure for accpetance criteria , make sure he knows what happening to the team, are thre any dispute , what skills they have, become a leader not a dictator.  Provide accurate and reasonable time estimates for every task and project phase. Steer clear of overly optimistic deadlines that neglect to factor in unforeseen circumstances.
+
+
+as for the whole team i would like to suggets to have full operation, collaboration, outsourcing, benchmarking/markiting     
+Thorough Documentation: Keep current records of requirements, design choices, code, and testing procedures. Effective documentation guarantees continuity and speeds up the onboarding process for new team members. Knowledge Sharing: Promote a collaborative and sharing culture. Pair programming and routine code reviews can aid in spotting problems early and distributing expertise among team members.
+Effective Communication Channels: Set up explicit channels and procedures for reporting developments, problems, and modifications. Having regular status reports and meetings keeps everyone in sync.
